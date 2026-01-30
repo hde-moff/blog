@@ -1,0 +1,8 @@
+title: "howhardcanthis.be"
+url: "https://howhardcanthis.be"
+baseurl: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
